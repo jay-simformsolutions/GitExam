@@ -1,0 +1,1 @@
+Release the application with version 1.0
